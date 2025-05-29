@@ -2,7 +2,7 @@ from agno.agent import Agent
 from agno.models.google import Gemini
 from agno.media import Image as AgnoImage
 from agno.tools.duckduckgo import DuckDuckGoTools 
-import streamlit as st 
+import streamlit as st
 from typing import List, Optional
 import logging 
 from pathlib import Path
